@@ -1,12 +1,12 @@
 {
   "dsp_spec_version": "0.0.1",
   "last_updated_by": "Johnny Li",
-  "last_updated": "2022-05-05T15:55:28.000Z",
+  "last_updated": "2022-06-12T08:47:52.633Z",
   "settings": {
-    "name": "THU Info Design",
+    "name": "THU-Info-Design",
     "package_version": "0.0.1",
     "build_tool": "StyleDictionary",
-    "snippet_trigger_prefix": "InfoD_",
+    "snippet_trigger_prefix": "xd_",
     "build_status_label": "dev",
     "build_params": "./config.js",
     "languages": [
@@ -37,7 +37,7 @@
       },
       {
         "label": "Flutter (Dart)",
-        "export_tokens": true,
+        "export_tokens": false,
         "snippet_id": "dart",
         "syntax": "application/vnd.dart",
         "ext-com_adobe_xd-styledictionary_id": "flutter"
@@ -149,7 +149,7 @@
       },
       {
         "label": "SCSS",
-        "export_tokens": true,
+        "export_tokens": false,
         "snippet_id": "scss",
         "syntax": "text/x-sass",
         "ext-com_adobe_xd-styledictionary_id": "scss"

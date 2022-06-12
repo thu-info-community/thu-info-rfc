@@ -1,0 +1,115 @@
+{
+  "color": {
+    "InfoDS_Alias_Transcript_APlus": {
+      "value": "{color.InfoDS_Color_Light_Primary1.value}"
+    },
+    "InfoDS_Alias_Transcript_A": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Indigo.value}"
+    },
+    " InfoDS_Alias_Transcript_AMinus": {
+      "value": "{color.InfoDS_Color_Light_Func_Blue.value}"
+    },
+    " InfoDS_Alias_Transcript_BPlus": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Cyan.value}"
+    },
+    " InfoDS_Alias_Transcript_B": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Mint.value}"
+    },
+    "InfoDS_Alias_Transcript_BMinus": {
+      "value": "{color.InfoDS_Color_Light_Func_Green.value}"
+    },
+    "InfoDS_Alias_Transcript_CPlus": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Grass.value}"
+    },
+    "InfoDS_Alias_Transcript_C": {
+      "value": "{color.InfoDS_Color_Light_Func_Yellow.value}"
+    },
+    "InfoDS_Alias_Transcript_CMinus": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Orange.value}"
+    },
+    " InfoDS_Alias_Transcript_DPlus": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Brown2.value}"
+    },
+    " InfoDS_Alias_Transcript_D": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Brown1.value}"
+    },
+    "InfoDS_Alias_Transcript_F": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Red60.value}"
+    },
+    " InfoDS_Alias_Transcript_I": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Red60.value}"
+    },
+    "InfoDS_Alias_Transcript_P": {
+      "value": "{color.InfoDS_Color_Light_Primary1.value}"
+    },
+    " InfoDS_Alias_Transcript_EX": {
+      "value": "{color.InfoDS_Color_Light_Func_Sec_Mint.value}"
+    },
+    "InfoDS_Alias_Transcript_W": {
+      "value": "{color.InfoDS_Color_Light_Bg-Text_WhiteC7.value}"
+    },
+    "InfoDS_Color_Light_Primary1": {
+      "value": "#8b55e4ff"
+    },
+    "InfoDS_Color_Light_Primary2": {
+      "value": "#B890FAff"
+    },
+    "InfoDS_Color_Light_Func_Red": {
+      "value": "#FF3B30ff"
+    },
+    "InfoDS_Color_Light_Func_Green": {
+      "value": "#34c759ff"
+    },
+    "InfoDS_Color_Light_Func_Yellow": {
+      "value": "#FFCC00ff"
+    },
+    "InfoDS_Color_Light_Func_Blue": {
+      "value": "#0A84FFff"
+    },
+    "InfoDS_Color_Light_Bg-Text_Black0": {
+      "value": "#000000ff"
+    },
+    "InfoDS_Color_Light_Bg-Text_Black3": {
+      "value": "#333333ff"
+    },
+    "InfoDS_Color_Light_Bg-Text_Black6": {
+      "value": "#666666ff"
+    },
+    "InfoDS_Color_Light_Bg-Text_Black9": {
+      "value": "#999999ff"
+    },
+    "InfoDS_Color_Light_Bg-Text_WhiteFF": {
+      "value": "#FFFFFFff"
+    },
+    "InfoDS_Color_Light_Bg-Text_WhiteF7": {
+      "value": "#F7F7F7ff"
+    },
+    "InfoDS_Color_Light_Bg-Text_WhiteC7": {
+      "value": "#C7C7CCff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Indigo": {
+      "value": "#5856D6ff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Mint": {
+      "value": "#00C7BEff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Grass": {
+      "value": "#98C734ff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Orange": {
+      "value": "#FF9500ff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Brown1": {
+      "value": "#DE970Eff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Brown2": {
+      "value": "#B8831Cff"
+    },
+    "InfoDS_Color_Light_Func_Sec_Red60": {
+      "value": "#FF3B3099"
+    },
+    "InfoDS_Color_Light_Func_Sec_Cyan": {
+      "value": "#32ADE6ff"
+    }
+  }
+}

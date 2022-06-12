@@ -18,17 +18,6 @@ module.exports = {
       "transformGroup": "css",
       "buildPath": "css/"
     },
-    "flutter": {
-      "files": [
-        {
-          "destination": "style_dictionary.dart",
-          "format": "flutter/class.dart",
-          "className": "StyleDictionary"
-        }
-      ],
-      "transformGroup": "flutter",
-      "buildPath": "flutter/"
-    },
     "android": {
       "files": [
         {
@@ -52,16 +41,6 @@ module.exports = {
       ],
       "transformGroup": "js",
       "buildPath": "js/"
-    },
-    "scss": {
-      "files": [
-        {
-          "destination": "variables.scss",
-          "format": "scss/variables"
-        }
-      ],
-      "transformGroup": "scss",
-      "buildPath": "scss/"
     },
     "ios-swift": {
       "files": [

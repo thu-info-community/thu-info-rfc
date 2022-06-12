@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Sun, 12 Jun 2022 09:49:46 GMT
+-->
+<resources>
+  <color name="info_ds_alias_transcript_a_plus">#ff8b55e4</color>
+  <color name="info_ds_alias_transcript_a">#ff5856d6</color>
+  <color name="info_ds_alias_transcript_a_minus">#ff0a84ff</color>
+  <color name="info_ds_alias_transcript_b_plus">#ff32ade6</color>
+  <color name="info_ds_alias_transcript_b">#ff00c7be</color>
+  <color name="info_ds_alias_transcript_b_minus">#ff34c759</color>
+  <color name="info_ds_alias_transcript_c_plus">#ff98c734</color>
+  <color name="info_ds_alias_transcript_c">#ffffcc00</color>
+  <color name="info_ds_alias_transcript_c_minus">#ffff9500</color>
+  <color name="info_ds_alias_transcript_d_plus">#ffb8831c</color>
+  <color name="info_ds_alias_transcript_d">#ffde970e</color>
+  <color name="info_ds_alias_transcript_f">#99ff3b30</color>
+  <color name="info_ds_alias_transcript_i">#99ff3b30</color>
+  <color name="info_ds_alias_transcript_p">#ff8b55e4</color>
+  <color name="info_ds_alias_transcript_ex">#ff00c7be</color>
+  <color name="info_ds_alias_transcript_w">#ffc7c7cc</color>
+  <color name="info_ds_color_light_primary_1">#ff8b55e4</color>
+  <color name="info_ds_color_light_primary_2">#ffb890fa</color>
+  <color name="info_ds_color_light_func_red">#ffff3b30</color>
+  <color name="info_ds_color_light_func_green">#ff34c759</color>
+  <color name="info_ds_color_light_func_yellow">#ffffcc00</color>
+  <color name="info_ds_color_light_func_blue">#ff0a84ff</color>
+  <color name="info_ds_color_light_bg_text_black_0">#ff000000</color>
+  <color name="info_ds_color_light_bg_text_black_3">#ff333333</color>
+  <color name="info_ds_color_light_bg_text_black_6">#ff666666</color>
+  <color name="info_ds_color_light_bg_text_black_9">#ff999999</color>
+  <color name="info_ds_color_light_bg_text_white_ff">#ffffffff</color>
+  <color name="info_ds_color_light_bg_text_white_f_7">#fff7f7f7</color>
+  <color name="info_ds_color_light_bg_text_white_c_7">#ffc7c7cc</color>
+  <color name="info_ds_color_light_func_sec_indigo">#ff5856d6</color>
+  <color name="info_ds_color_light_func_sec_mint">#ff00c7be</color>
+  <color name="info_ds_color_light_func_sec_grass">#ff98c734</color>
+  <color name="info_ds_color_light_func_sec_orange">#ffff9500</color>
+  <color name="info_ds_color_light_func_sec_brown_1">#ffde970e</color>
+  <color name="info_ds_color_light_func_sec_brown_2">#ffb8831c</color>
+  <color name="info_ds_color_light_func_sec_red_60">#99ff3b30</color>
+  <color name="info_ds_color_light_func_sec_cyan">#ff32ade6</color>
+  
+</resources>
