@@ -1,0 +1,44 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 12 Jun 2022 09:49:46 GMT
+ */
+
+:root {
+  --info-ds-alias-transcript-a-plus: #8b55e4;
+  --info-ds-alias-transcript-a: #5856d6;
+  --info-ds-alias-transcript-a-minus: #0a84ff;
+  --info-ds-alias-transcript-b-plus: #32ade6;
+  --info-ds-alias-transcript-b: #00c7be;
+  --info-ds-alias-transcript-b-minus: #34c759;
+  --info-ds-alias-transcript-c-plus: #98c734;
+  --info-ds-alias-transcript-c: #ffcc00;
+  --info-ds-alias-transcript-c-minus: #ff9500;
+  --info-ds-alias-transcript-d-plus: #b8831c;
+  --info-ds-alias-transcript-d: #de970e;
+  --info-ds-alias-transcript-f: rgba(255, 59, 48, 0.6);
+  --info-ds-alias-transcript-i: rgba(255, 59, 48, 0.6);
+  --info-ds-alias-transcript-p: #8b55e4;
+  --info-ds-alias-transcript-ex: #00c7be;
+  --info-ds-alias-transcript-w: #c7c7cc;
+  --info-ds-color-light-primary-1: #8b55e4;
+  --info-ds-color-light-primary-2: #b890fa;
+  --info-ds-color-light-func-red: #ff3b30;
+  --info-ds-color-light-func-green: #34c759;
+  --info-ds-color-light-func-yellow: #ffcc00;
+  --info-ds-color-light-func-blue: #0a84ff;
+  --info-ds-color-light-bg-text-black-0: #000000;
+  --info-ds-color-light-bg-text-black-3: #333333;
+  --info-ds-color-light-bg-text-black-6: #666666;
+  --info-ds-color-light-bg-text-black-9: #999999;
+  --info-ds-color-light-bg-text-white-ff: #ffffff;
+  --info-ds-color-light-bg-text-white-f-7: #f7f7f7;
+  --info-ds-color-light-bg-text-white-c-7: #c7c7cc;
+  --info-ds-color-light-func-sec-indigo: #5856d6;
+  --info-ds-color-light-func-sec-mint: #00c7be;
+  --info-ds-color-light-func-sec-grass: #98c734;
+  --info-ds-color-light-func-sec-orange: #ff9500;
+  --info-ds-color-light-func-sec-brown-1: #de970e;
+  --info-ds-color-light-func-sec-brown-2: #b8831c;
+  --info-ds-color-light-func-sec-red-60: rgba(255, 59, 48, 0.6);
+  --info-ds-color-light-func-sec-cyan: #32ade6;
+}
